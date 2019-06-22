@@ -1,0 +1,5 @@
+
+function createNewdata(){
+    alert("something");
+        
+    }
